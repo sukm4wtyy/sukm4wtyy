@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm @sukm4wtyy<br>🔭 I'm currently working on a project<br>👯‍♀️ I'm looking to collaborate on website development<br>🤝 I'm currently learning to code<br>⚡Fun fact i love coding
+👋 Hi, I'm @sukm4wtyy<br>🔭 I'm currently working on a project<br>👯‍♀️ I'm looking to collaborate on website development<br>🤝 I'm currently learning to code<br>⚡Fun fact i love to sleep
 
 
 # 💻 Tech Stack:
