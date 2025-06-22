@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Sukmawaty 👋
 
 <!--
 **sukm4wtyy/sukm4wtyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![sukma](img/github-header-image.png)
+
+
