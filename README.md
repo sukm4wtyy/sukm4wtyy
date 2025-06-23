@@ -24,10 +24,6 @@
 
 ![Sukma's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukm4wtyy&show_icons=true&theme=gruvbox) -->
 
-
-## Hello World! I'm Sukmawaty 👋
-
-
 ##### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sukma28_58267) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sukmawtyyy___/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiktok.com/@spamabumh4_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@sukmawati9661) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sukmawati.h.buton@gmail.com) 
 
@@ -48,10 +44,11 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h2 align="left">Play games with me</h2>
+<h5 align="left">Play games with me</h2>
 
 ###
 
 <img src="https://raw.githubusercontent.com/sukm4wtyy/sukm4wtyy/output/snake.svg" alt="Snake animation" />
 
 ###
+
